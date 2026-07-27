@@ -1,6 +1,5 @@
 # 🚀 FNB App Academy 2026
 
-Learn, Build & Grow
 <img width="1077" height="621" alt="Screenshot 2026-07-25 225414" src="https://github.com/user-attachments/assets/0e5ca56e-87d7-4c88-9637-be90746b5a1c" />
 
 
