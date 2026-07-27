@@ -37,10 +37,6 @@ The work contained in this repository demonstrates my growing foundation in Pyth
 | **Unit 4: Storage and Access** | Lists, dictionaries, mutability, structured collections, and iteration | ✅ Completed |
 | **Unit 5: Selection of Tasks** | Conditional statements (`if`, `elif`, `else`), comparison, and logical operators | ✅ Completed |
 | **Unit 6: Repeating Tasks** | `for` loops, `while` loops, `range()`, and loop control statements | ✅ Completed |
-| **Object-Oriented Programming** | Classes, objects, inheritance, encapsulation, and polymorphism | ⏳ In Progress |
-| **Database Integration** | Connecting Python applications with SQL and relational databases | ⏳ Upcoming |
-| **API Integration** | Consuming REST APIs and handling JSON data structures | ⏳ Upcoming |
-| **Version Control & Git** | Advanced branching, merging, and collaborative workflows | 🔄 Ongoing |
 
 ---
 
@@ -49,7 +45,7 @@ The work contained in this repository demonstrates my growing foundation in Pyth
 * **Languages:** Python
 * **Core Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms, Software Development Lifecycle (SDLC)
 * **Testing & Debugging:** Unit Testing, Automated Assertion Testing, Exception Handling, VS Code Debugger
-* **Development Tools:** Visual Studio Code, Git, GitHub, Command Line Interface (CLI)
+* **Development Tools:** Visual Studio Code, Git, GitHub, 
 * **Soft Skills:** Problem Solving, Analytical Thinking, Design Thinking, Continuous Learning
 
 ---
@@ -72,12 +68,12 @@ The work contained in this repository demonstrates my growing foundation in Pyth
 fnb_app_academy_2026/
 │
 ├── lessons/
-│   ├── lesson_01_basics.py
-│   ├── lesson_02_control_flow.py
-│   ├── lesson_03_data_structures.py
-│   ├── lesson_04_functions.py
-│   ├── lesson_05_file_handling.py
-│   └── lesson_06_testing.py
+│   ├── lesson_01
+│   ├── lesson_02
+│   ├── lesson_03
+│   ├── lesson_04
+│   ├── lesson_05
+│   └── lesson_06
 │
 ├── practical_tasks/
 │   ├── task_01_calculator.py
